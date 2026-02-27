@@ -1,2 +1,2 @@
 # Hidden-Markov-Regime-Detection
-By: Chabod M. 
+Author: Chabod M. 
